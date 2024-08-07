@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "느리지만 탄탄하게"
   location         : "Pyeongtaek, Korea"
-  email            : "iron8233@naver.com
+  email            : "iron8233@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
